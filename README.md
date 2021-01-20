@@ -1,0 +1,2 @@
+# Macrophage-infiltration-in-3D-tumor-model-
+This ImageJ macro measures the infiltration of macrophages (MonoMac, CD89+ PE) are capable of infiltrating a 3D spheroid tumour model (Raji, CFSE). The findings utilizing this macro are published in: Lara et al 2021 'The importance of antibody isotypes in anti-tumor immunity by monocytes and complement using human-immune tumor models' European Journal of Immunology
